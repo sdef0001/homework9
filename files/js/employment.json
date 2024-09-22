@@ -12,7 +12,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/sdef0001/homework9/refs/heads/main/files/json/countries-110m.json",
+        "url": "https://raw.githubusercontent.com/sdef0001/homework9/refs/heads/main/files/js/countries-110m.json",
         "format": {"type": "topojson", "feature": "countries"}
       },
       "transform": [
