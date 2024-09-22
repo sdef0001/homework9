@@ -1,0 +1,6 @@
+#vis {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Makes sure the div takes up full viewport height */
+}
