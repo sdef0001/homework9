@@ -1,26 +1,26 @@
 ISO_Code,Country_Name,Unemployment_Rate
-004,Afghanistan,14.386
-008,Albania,11.584
-012,Algeria,11.814
-024,Angola,14.62
-032,Argentina,6.178
-051,Armenia,8.586
-036,Australia,3.667
-040,Austria,5.243
-031,Azerbaijan,5.636
-048,Bahrain,1.16
-050,Bangladesh,5.06
-052,Barbados,7.954
+4,Afghanistan,14.386
+8,Albania,11.584
+12,Algeria,11.814
+24,Angola,14.62
+32,Argentina,6.178
+51,Armenia,8.586
+36,Australia,3.667
+40,Austria,5.243
+31,Azerbaijan,5.636
+48,Bahrain,1.16
+50,Bangladesh,5.06
+52,Barbados,7.954
 112,Belarus,3.574
-056,Belgium,5.508
-084,Belize,8.262
+56,Belgium,5.508
+84,Belize,8.262
 204,Benin,1.452
-064,Bhutan,5.653
-068,Bolivia,3.081
-070,Bosnia and Herzegovina,10.42
-072,Botswana,23.381
-076,Brazil,7.95
-096,Brunei Darussalam,5.27
+64,Bhutan,5.653
+68,Bolivia,3.081
+70,Bosnia and Herzegovina,10.42
+72,Botswana,23.381
+76,Brazil,7.95
+96,Brunei Darussalam,5.27
 100,Bulgaria,4.295
 854,Burkina Faso,5.293
 108,Burundi,0.93
@@ -135,7 +135,7 @@ ISO_Code,Country_Name,Unemployment_Rate
 702,Singapore,3.472
 703,Slovak Republic,5.84
 705,Slovenia,3.627
-090,Solomon Islands,1.545
+90,Solomon Islands,1.545
 706,Somalia,19.027
 710,South Africa,27.988
 728,South Sudan,12.271
@@ -165,3 +165,5 @@ ISO_Code,Country_Name,Unemployment_Rate
 704,Viet Nam,1.602
 894,Zambia,5.913
 716,Zimbabwe,8.759
+180,Democratic Republic of Congo,14.72
+178,Republic of Congo,13.52
